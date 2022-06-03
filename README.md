@@ -1,2 +1,3 @@
-# java-basic-devdojo
-Project with basic and advance Java
+# java basic
+
+Java basic to advanced on DevDojo and Udemy projects
